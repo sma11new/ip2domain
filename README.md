@@ -62,7 +62,7 @@ python .\ip2domain.py -f E:\Desktop\target.txt -s 2 -r 1
 
 ![image_2021-12-06_19-15-09](README.assets/image_2021-12-06_19-15-09.png)
 
-出现了一次PageError，表示相应为200，但是页面未加载出来权重信息。
+出现了一次PageError，表示响应为200，但是页面未加载出来权重信息。
 
 **2、**百度权重阈值为1，请求时延为2，开启ICP备案查询
 
